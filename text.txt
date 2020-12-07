@@ -1,0 +1,24 @@
+commit b822da1b56bde2be0bb182db8deea28c7af240e6 (HEAD -> main, origin/main)
+Author: Joel Lindqvist <joellindqvist@iths.se>
+Date:   Tue Nov 24 16:36:45 2020 +0100
+
+    fourth commit
+
+commit 9a1400e384ded343d0ba4278042150a657cacc86
+Author: Joel Lindqvist <joellindqvist@iths.se>
+Date:   Tue Nov 24 16:24:17 2020 +0100
+
+    third commit
+
+commit e9d0c059b299264595383652080244b4fadd29e9
+Author: Joel Lindqvist <joellindqvist@iths.se>
+Date:   Tue Nov 24 16:18:47 2020 +0100
+
+    second commit
+
+commit 171d7602910651bc675fb1eec1f6e156db2ee4a8
+Author: Joel Lindqvist <joellindqvist@iths.se>
+Date:   Tue Nov 24 16:15:24 2020 +0100
+
+    first commit
+
